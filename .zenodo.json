@@ -1,0 +1,24 @@
+{
+  "title": "Pust Tour Guide: map guide to the carnival traditions of an Alpine border region (MIT App Inventor (Android), 2022–2023)",
+  "upload_type": "software",
+  "description": "<p><em>Guida su mappa alle tradizioni carnevalesche di una regione alpina di confine</em></p><p>Pust Tour Guide, built on the Multi Tour Guide engine, presents about thirty villages and towns on both sides of the Italian–Slovenian border where traditional carnival (pust) masks and customs survive. The sites are grouped by area on separate maps; for each one the app describes the masks and rites in four languages, shows the distance from the user, opens navigation and links to a web page. A countdown shows the time left to the next carnival.</p><p>Designed and programmed by Massimo Sbarbaro in 2022–2023 (MIT App Inventor (Android)). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MIT App Inventor",
+    "Android",
+    "GPS",
+    "maps",
+    "carnival",
+    "intangible cultural heritage",
+    "multilingual"
+  ],
+  "version": "1.0 (2)",
+  "language": "eng",
+  "notes": "Original development: 2022–2023."
+}
