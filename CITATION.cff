@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Pust Tour Guide: map guide to the carnival traditions of an Alpine border region (MIT App Inventor (Android), 2022–2023)"
+title: "Pust Tour Guide: map guide to the carnival traditions of an Alpine border region (Android, 2022–2023)"
 version: "1.0 (2)"
 abstract: "Pust Tour Guide, built on the Multi Tour Guide engine, presents about thirty villages and towns on both sides of the Italian–Slovenian border where traditional carnival (pust) masks and customs survive. The sites are grouped by area on separate maps; for each one the app describes the masks and rites in four languages, shows the distance from the user, opens navigation and links to a web page. A countdown shows the time left to the next carnival."
 authors:
@@ -9,7 +9,8 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
-repository-code: "https://github.com/massimosbarbaro/carnival-traditions-tour-guide-appinventor"
+doi: "10.5281/zenodo.23205258"
+repository-code: "https://github.com/massimosbarbaro/carnival-traditions-tour-guide-android"
 keywords:
   - "MIT App Inventor"
   - "Android"

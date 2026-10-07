@@ -1,8 +1,10 @@
 # Pust Tour Guide: map guide to the carnival traditions of an Alpine border region
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205258.svg)](https://doi.org/10.5281/zenodo.23205258)
+
 *Guida su mappa alle tradizioni carnevalesche di una regione alpina di confine*
 
-**MIT App Inventor (Android)** · 2022–2023 · version 1.0 (2)  
+**Android** · 2022–2023 · version 1.0 (2)  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -42,14 +44,14 @@ Photographs, illustrations, logos, sound recordings and stock images are **not**
 
 ## Related repositories
 
-- [multilingual-gps-tour-guide-appinventor](https://github.com/massimosbarbaro/multilingual-gps-tour-guide-appinventor)
-- [folklore-gps-tour-guide-appinventor](https://github.com/massimosbarbaro/folklore-gps-tour-guide-appinventor)
+- [multilingual-gps-tour-guide-android](https://github.com/massimosbarbaro/multilingual-gps-tour-guide-android)
+- [folklore-gps-tour-guide-android](https://github.com/massimosbarbaro/folklore-gps-tour-guide-android)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205258](https://doi.org/10.5281/zenodo.23205258).
 
-> Sbarbaro, Massimo. *Pust Tour Guide: map guide to the carnival traditions of an Alpine border region (MIT App Inventor (Android), 2022–2023)*. Software, version 1.0 (2). GitHub: https://github.com/massimosbarbaro/carnival-traditions-tour-guide-appinventor
+> Sbarbaro, Massimo. 2023. *Pust Tour Guide: map guide to the carnival traditions of an Alpine border region*. Software (Android, 2022–2023), version 1.0 (2). Zenodo. https://doi.org/10.5281/zenodo.23205258.
 
 ## License
 
